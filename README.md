@@ -1,4 +1,8 @@
 # Document Text Extractor
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-3.7-009688)
+![NumPy](https://img.shields.io/badge/NumPy-2.3-013243?logo=numpy)
+![PySide6](https://img.shields.io/badge/PySide6-6.11-41CD52?logo=qt)
 
 ## About
 
