@@ -58,7 +58,7 @@ Below are performance results of the application.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/document-text-extractor.git
+git clone https://github.com/yasin-azadi/pdf-to-text-ocr.git
 ```
 
 2. Navigate to the project directory
