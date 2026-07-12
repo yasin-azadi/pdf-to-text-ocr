@@ -24,7 +24,7 @@ It is designed for students, researchers, businesses, and anyone who needs to co
 - 🖼️ Image preprocessing to improve OCR quality and accuracy.
 - 🎯 High text extraction accuracy for both printed and scanned documents.
 - ⚡ Fast and easy-to-use interface.
-- 🌍 Supports multiple languages (if enabled).
+- 🌍 Supports multiple languages.
 
 ---
 
