@@ -47,7 +47,7 @@ Below are performance results of the application.
 
 **Accuracy**
 
-![Accuracy vs Compression](assets/accuracy_compression.png)
+![Accuracy](assets/accuracy_compression.png)
 
 ![Processing Time](assets/processing_time.png)
 
