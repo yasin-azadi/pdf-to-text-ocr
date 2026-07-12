@@ -32,12 +32,11 @@ It is designed for students, researchers, businesses, and anyone who needs to co
 
 - **Python** – Core programming language
 - **OpenCV** – Image preprocessing
-- **EasyOCR** – Optical Character Recognition (OCR)
+- **PaddleOCR** – Optical Character Recognition (OCR)
 - **NumPy** – Image and array processing
 - **Pillow (PIL)** – Image loading and manipulation
-- **PyMuPDF** – PDF rendering and page extraction
 - **python-docx** – Reading Word documents
-- **Tkinter / PySide6** – Graphical User Interface (GUI)
+- **PySide6** – Graphical User Interface (GUI)
 
 ---
 
