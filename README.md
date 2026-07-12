@@ -64,7 +64,7 @@ git clone https://github.com/yasin-azadi/pdf-to-text-ocr.git
 2. Navigate to the project directory
 
 ```bash
-cd document-text-extractor
+cd pdf-to-text-ocr
 ```
 
 3. Create a virtual environment (optional but recommended)
